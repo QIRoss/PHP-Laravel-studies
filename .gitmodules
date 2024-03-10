@@ -1,0 +1,6 @@
+[submodule "dockerize_laravel"]
+	path = dockerize_laravel
+	url = https://github.com/sushant032/dockerize_laravel
+[submodule "laravel-docker-dev"]
+	path = laravel-docker-dev
+	url = https://github.com/ChewySalmon/laravel-docker-dev
